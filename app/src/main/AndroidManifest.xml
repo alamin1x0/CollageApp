@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dpi" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/dpi_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/dpi_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DPI" >
+        <activity
+            android:name=".navigation.website.Websites"
+            android:exported="true" />
+        <activity
+            android:name=".navigation.developer.Developera"
+            android:exported="true" />
+        <activity
+            android:name=".navigation.video.VideoLacture"
+            android:exported="true" />
+        <activity
+            android:name=".navigation.ebook.PdfViewerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".navigation.ebook.EbookActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".fullimage.FullImageView"
+            android:exported="true" />
+        <activity
+            android:name=".navigation.slappscren.SlappScreen"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DPI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="dpi_tittle">THE DPI TALE</string>
+    <string name="dpi_about">DINAJPUR Polytechnic institute a largest and reputed Government polytechnic institute in Bangladesh which was established in 1964.This polytechnic has controlled by the Government of Bangladesh and under the Bangladesh Technical Education Board (BTEB).
+DINAJPUR Polytechnic institute is One of the Biggest Polytechnic Institute in Bangladesh. there are Three hostels two for boys and One for girls. A big play ground and also has facilities for indoor games. DINAJPUR Polytechnic institute (DPI) provide 4 years Diploma in Engineering Course under the (BTEB) as maintaining International Standard.</string>
+
+
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="autolink_text">Name: Developer Al-Amin \n  Email: alaminsakib.cse@gmail.com \n  Phone: +8801929284244 \n  Website: https://developer-alamin.web.app</string>
+
+
+</resources>
